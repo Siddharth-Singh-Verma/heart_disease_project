@@ -1,0 +1,200 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aiofiles >=22.1.0,<23",
+    "aiosqlite >=0.17.0,<1",
+    "python >=3.10,<3.11.0a0",
+    "y-py >=0.5.3,<0.6.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\NITRO 5\\miniconda3\\pkgs\\ypy-websocket-0.8.2-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/ypy_websocket-0.8.2.dist-info/INSTALLER",
+    "Lib/site-packages/ypy_websocket-0.8.2.dist-info/METADATA",
+    "Lib/site-packages/ypy_websocket-0.8.2.dist-info/RECORD",
+    "Lib/site-packages/ypy_websocket-0.8.2.dist-info/REQUESTED",
+    "Lib/site-packages/ypy_websocket-0.8.2.dist-info/WHEEL",
+    "Lib/site-packages/ypy_websocket-0.8.2.dist-info/direct_url.json",
+    "Lib/site-packages/ypy_websocket-0.8.2.dist-info/licenses/LICENSE",
+    "Lib/site-packages/ypy_websocket/__init__.py",
+    "Lib/site-packages/ypy_websocket/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/ypy_websocket/__pycache__/awareness.cpython-310.pyc",
+    "Lib/site-packages/ypy_websocket/__pycache__/websocket_provider.cpython-310.pyc",
+    "Lib/site-packages/ypy_websocket/__pycache__/websocket_server.cpython-310.pyc",
+    "Lib/site-packages/ypy_websocket/__pycache__/ystore.cpython-310.pyc",
+    "Lib/site-packages/ypy_websocket/__pycache__/yutils.cpython-310.pyc",
+    "Lib/site-packages/ypy_websocket/awareness.py",
+    "Lib/site-packages/ypy_websocket/py.typed",
+    "Lib/site-packages/ypy_websocket/websocket_provider.py",
+    "Lib/site-packages/ypy_websocket/websocket_server.py",
+    "Lib/site-packages/ypy_websocket/ystore.py",
+    "Lib/site-packages/ypy_websocket/yutils.py",
+    ".nonadmin"
+  ],
+  "fn": "ypy-websocket-0.8.2-py310haa95532_0.conda",
+  "legacy_bz2_md5": "772418b60f86e48d8879a11e188ecb05",
+  "legacy_bz2_size": 24626,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\NITRO 5\\miniconda3\\pkgs\\ypy-websocket-0.8.2-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "ed7c429c2baeb1704b48024cd70e21ec",
+  "name": "ypy-websocket",
+  "package_tarball_full_path": "C:\\Users\\NITRO 5\\miniconda3\\pkgs\\ypy-websocket-0.8.2-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/ypy_websocket-0.8.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket-0.8.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "8d211c507c52fef968aced98272d481b8bcddf2cc757d00509f3cdd9c605ac90",
+        "sha256_in_prefix": "8d211c507c52fef968aced98272d481b8bcddf2cc757d00509f3cdd9c605ac90",
+        "size_in_bytes": 2563
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket-0.8.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a83774d5ec059cd76971c6f5ad9ca0cbbd28bb8000ac420435638177901641e3",
+        "sha256_in_prefix": "a83774d5ec059cd76971c6f5ad9ca0cbbd28bb8000ac420435638177901641e3",
+        "size_in_bytes": 1549
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket-0.8.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket-0.8.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "84a8bb008231eaa7e7b116ebd3ceefa5e267ad552e0e89031d969c3cf316efe6",
+        "sha256_in_prefix": "84a8bb008231eaa7e7b116ebd3ceefa5e267ad552e0e89031d969c3cf316efe6",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket-0.8.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f8cc7605538ac2bcde5857f73dae9c5b020d7e8ea4d0229c0cb4769d8bbb7127",
+        "sha256_in_prefix": "f8cc7605538ac2bcde5857f73dae9c5b020d7e8ea4d0229c0cb4769d8bbb7127",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket-0.8.2.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "a661be2555fbf631f2485ef279b2ea3427cc8aa640d542ba23fd79896e3b3653",
+        "sha256_in_prefix": "a661be2555fbf631f2485ef279b2ea3427cc8aa640d542ba23fd79896e3b3653",
+        "size_in_bytes": 1071
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6d89e54f11efdf64bed62295f4ac189d461125e32209e72b799d386a833bfe91",
+        "sha256_in_prefix": "6d89e54f11efdf64bed62295f4ac189d461125e32209e72b799d386a833bfe91",
+        "size_in_bytes": 183
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "728d52953f5ba197221ee5570af0332b14bf914fc460c20b006c79cf3537f3d0",
+        "sha256_in_prefix": "728d52953f5ba197221ee5570af0332b14bf914fc460c20b006c79cf3537f3d0",
+        "size_in_bytes": 337
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/__pycache__/awareness.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "f12e768b3dd5349f619a3a3e9462fc0ebbbf664ca30b9adaccc11ba0a2eeb955",
+        "sha256_in_prefix": "f12e768b3dd5349f619a3a3e9462fc0ebbbf664ca30b9adaccc11ba0a2eeb955",
+        "size_in_bytes": 1607
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/__pycache__/websocket_provider.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "935df1fad755f10f46670d368bc0174d8918c713f827becdac68b7759826ea55",
+        "sha256_in_prefix": "935df1fad755f10f46670d368bc0174d8918c713f827becdac68b7759826ea55",
+        "size_in_bytes": 1604
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/__pycache__/websocket_server.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "42c801b735928016597c9c5fd9bcdd30602e5da9f90be9c1a90ac432e983acb1",
+        "sha256_in_prefix": "42c801b735928016597c9c5fd9bcdd30602e5da9f90be9c1a90ac432e983acb1",
+        "size_in_bytes": 4967
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/__pycache__/ystore.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "9b1148946d0a32b4471ccd0b48fe54ed6c6bf96cd26817d910e8dc7ed9b54cb2",
+        "sha256_in_prefix": "9b1148946d0a32b4471ccd0b48fe54ed6c6bf96cd26817d910e8dc7ed9b54cb2",
+        "size_in_bytes": 9617
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/__pycache__/yutils.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "5fb75a16a039129c0ff4ba6e9d4969e81b9180801489566a4effff3a55cd30ea",
+        "sha256_in_prefix": "5fb75a16a039129c0ff4ba6e9d4969e81b9180801489566a4effff3a55cd30ea",
+        "size_in_bytes": 4551
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/awareness.py",
+        "path_type": "hardlink",
+        "sha256": "7187b9b382df5d91df6cd865204958bb857ce1b0e08aa6d1ad7ee1b2f2c84705",
+        "sha256_in_prefix": "7187b9b382df5d91df6cd865204958bb857ce1b0e08aa6d1ad7ee1b2f2c84705",
+        "size_in_bytes": 2313
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/websocket_provider.py",
+        "path_type": "hardlink",
+        "sha256": "4fe9ca5c4e4a76b4dace810bb0cef2f72cce708c6ee6a013d71373561900f6cb",
+        "sha256_in_prefix": "4fe9ca5c4e4a76b4dace810bb0cef2f72cce708c6ee6a013d71373561900f6cb",
+        "size_in_bytes": 1256
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/websocket_server.py",
+        "path_type": "hardlink",
+        "sha256": "beda3202dc24688943d47fa6dd7aa3104dc035c10af09a3f14993144bae24ba8",
+        "sha256_in_prefix": "beda3202dc24688943d47fa6dd7aa3104dc035c10af09a3f14993144bae24ba8",
+        "size_in_bytes": 5382
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/ystore.py",
+        "path_type": "hardlink",
+        "sha256": "860f0b56d1d41916c150452a9bc6c4632d07c0d0d082675a60669004130dd468",
+        "sha256_in_prefix": "860f0b56d1d41916c150452a9bc6c4632d07c0d0d082675a60669004130dd468",
+        "size_in_bytes": 10586
+      },
+      {
+        "_path": "Lib/site-packages/ypy_websocket/yutils.py",
+        "path_type": "hardlink",
+        "sha256": "7773daaf36e850b9e63e07c59f1af64fde4b94214af0d23944e88a7f5243b06b",
+        "sha256_in_prefix": "7773daaf36e850b9e63e07c59f1af64fde4b94214af0d23944e88a7f5243b06b",
+        "size_in_bytes": 4020
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "ypy-websocket==0.8.2=py310haa95532_0",
+  "sha256": "6725e23093f580111bf23dad426db66bc9c68eef73e8615d3d74a89a90d97dc9",
+  "size": 27313,
+  "subdir": "win-64",
+  "timestamp": 1684172305885,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/ypy-websocket-0.8.2-py310haa95532_0.conda",
+  "version": "0.8.2"
+}

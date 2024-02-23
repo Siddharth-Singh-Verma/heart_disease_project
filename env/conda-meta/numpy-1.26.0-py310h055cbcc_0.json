@@ -1,0 +1,44 @@
+{
+  "build": "py310h055cbcc_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2023.1.0,<2024.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 1.26.0 py310h65a83cf_0",
+    "python >=3.10,<3.11.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.27.29016,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\NITRO 5\\miniconda3\\pkgs\\numpy-1.26.0-py310h055cbcc_0",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "numpy-1.26.0-py310h055cbcc_0.conda",
+  "legacy_bz2_md5": "c88f44adc8655bbcc10800b0df493165",
+  "legacy_bz2_size": 9907,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\NITRO 5\\miniconda3\\pkgs\\numpy-1.26.0-py310h055cbcc_0",
+    "type": 1
+  },
+  "md5": "b22739851b01daeb608763aac197ae81",
+  "name": "numpy",
+  "package_tarball_full_path": "C:\\Users\\NITRO 5\\miniconda3\\pkgs\\numpy-1.26.0-py310h055cbcc_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "numpy==1.26.0=py310h055cbcc_0",
+  "sha256": "ddf2bc4d9501f5266d2d0d23e76939932a93dcf1e2afefdda7d9f3a4e8a64629",
+  "size": 10724,
+  "subdir": "win-64",
+  "timestamp": 1695833681433,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/numpy-1.26.0-py310h055cbcc_0.conda",
+  "version": "1.26.0"
+}
