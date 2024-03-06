@@ -24,7 +24,7 @@ iface = gr.Interface(
         gr.Slider(minimum=0, maximum=1, label="target"),
     ],
     outputs="text",
-    title="Health Prediction",
+    title="Heart disease prediction system",
     description="Enter the parameters and see the health prediction.",
 )
 
