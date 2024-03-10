@@ -1,8 +1,13 @@
 import gradio as gr
 import pickel
 def predict_health(age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal, target):
-    
-    return 
+    x=
+    model = model = pickle.load(open('logistic_model.pkl", 'rb'))
+    y=model.predict(x)
+    if y==1:
+        return "you have heart disease"
+    else:
+        return "you are fine"
 
 iface = gr.Interface(
     fn=predict_health,
