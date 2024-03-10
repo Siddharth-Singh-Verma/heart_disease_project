@@ -1,9 +1,8 @@
 import gradio as gr
-
+import pickel
 def predict_health(age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal, target):
-    # Your health prediction model goes here
-    # Replace this with your actual model prediction logic
-    return "Healthy" if age > 50 else "Not Healthy"
+    
+    return 
 
 iface = gr.Interface(
     fn=predict_health,
@@ -21,7 +20,6 @@ iface = gr.Interface(
         gr.Slider(minimum=0, maximum=2, label="slope"),
         gr.Slider(minimum=0, maximum=4, label="ca"),
         gr.Slider(minimum=0, maximum=3, label="thal"),
-        gr.Slider(minimum=0, maximum=1, label="target"),
     ],
     outputs="text",
     title="Heart disease prediction system",
