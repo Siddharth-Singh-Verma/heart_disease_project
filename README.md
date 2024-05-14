@@ -12,7 +12,7 @@
 
 
 ## Project Description
-This project aims to predict heart disease using machine learning. We have applied three different classification algorithms and developed a Gradio UI for the final model, allowing users to interact and make predictions based on the model.
+This project aims to predict heart disease using machine learning. I have applied three different classification algorithms: Logistic Regression, K-Nearest Neighbors Classifier, and Random Forest Classifier. These algorithms were evaluated and hyperparameter tuning was used to further boost their accuracy. Various graphs have been used to visualize my work. In the end, I have also tried to create a GUI using Gradio to facilitate user interactions with the final tuned model. 
 
 ## Data
 The dataset used in this project is a modified version of the UCI Heart Disease dataset available on Kaggle. It consists of 303 instances with 14 features related to heart health.
